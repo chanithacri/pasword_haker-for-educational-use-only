@@ -1,4 +1,4 @@
-# pasword_haker
+# password_hacker
 ## Note:
-This is not a rial pasword haker but one which i criated to hake the sever which i criated by uorself. The server code is given aswell.
-# The repo also contains some of my sucsefull project.
+This is not a real password hacker but one which I created to hake the sever which I created by yourself. The server code is given as well.
+# The repo also contains some of my successful projects.
